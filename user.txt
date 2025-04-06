@@ -1,0 +1,3 @@
+IT is a simple BMI(Body mass index) calculataor app 
+download the apk
+enter the mass and height 
